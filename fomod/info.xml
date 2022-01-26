@@ -1,0 +1,10 @@
+<fomod>
+    <Name>Food Fight (Food Weapons)</Name>
+    <Author>Mark E. Kraus</Author>
+    <Version>1.0.0</Version>
+    <Website>{NEWURL}</Website>
+    <Description>Adds several Food Weapons to Skyrim.</Description>
+    <Groups>
+        <element>Weapons</element>
+    </Groups>
+</fomod>
